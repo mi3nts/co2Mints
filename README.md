@@ -12,3 +12,7 @@ It incorporates firmware designed for the analysis of data from various IoT-base
 
 
 
+## Appropriate parametors 
+
+
+
